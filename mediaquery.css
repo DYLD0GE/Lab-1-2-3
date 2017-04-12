@@ -1,0 +1,22 @@
+@media screen and (max-width: 1200px) {
+  .box {
+    width: 40%;
+  }
+  .box a {
+    color: blue;
+  }
+
+}
+
+@media screen and (max-width: 768px) {
+
+.box {
+  width: 70%;
+}
+.box a {
+  color: red;
+}
+#about2, #about3 {
+  width: 60%;
+}
+}
